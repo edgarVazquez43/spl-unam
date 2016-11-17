@@ -1,0 +1,7 @@
+2016.11.16-15.13.41: League = SPL
+2016.11.16-15.13.41: Game type = round robin
+2016.11.16-15.13.41: Auto color change = false
+2016.11.16-15.13.41: Using broadcast address /192.169.9.255
+2016.11.16-15.13.41: Listening on address /192.169.9.109
+2016.11.16-15.13.41: B-Human (Black) vs UTH-CAR (Red)
+2016.11.16-15.14.28: Shutdown GameController

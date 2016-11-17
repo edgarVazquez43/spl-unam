@@ -1,0 +1,16 @@
+2016.11.16-15.45.00: League = SPL
+2016.11.16-15.45.00: Game type = round robin
+2016.11.16-15.45.00: Auto color change = false
+2016.11.16-15.45.00: Using broadcast address /192.169.9.255
+2016.11.16-15.45.00: Listening on address /192.169.9.109
+2016.11.16-15.45.00: MRL-SPL (Blue) vs Invisibles (Red)
+2016.11.16-15.45.25: Ready
+2016.11.16-15.45.29: Set
+2016.11.16-15.45.30: Playing
+2016.11.16-15.45.32: Goal for Blue
+2016.11.16-15.45.32: Ready
+2016.11.16-15.46.14: Set
+2016.11.16-15.46.15: Playing
+2016.11.16-15.46.22: Inactive Player Blue 2
+2016.11.16-15.46.34: Out by Blue
+2016.11.16-15.46.40: Shutdown GameController

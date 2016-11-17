@@ -1,0 +1,24 @@
+2016.11.16-15.04.40: League = SPL
+2016.11.16-15.04.40: Game type = round robin
+2016.11.16-15.04.40: Auto color change = false
+2016.11.16-15.04.40: Using broadcast address /192.169.9.255
+2016.11.16-15.04.40: Listening on address /192.169.9.109
+2016.11.16-15.04.40: B-Human (Black) vs Invisibles (Red)
+2016.11.16-15.05.16: Ready
+2016.11.16-15.05.29: Set
+2016.11.16-15.05.30: Playing
+2016.11.16-15.05.43: Finished
+2016.11.16-15.05.55: 2nd Half
+2016.11.16-15.06.06: Ready
+2016.11.16-15.06.07: Set
+2016.11.16-15.06.09: Playing
+2016.11.16-15.06.18: Leaving the Field Black 1
+2016.11.16-15.06.36: Illegal Defender Black 3
+2016.11.16-15.06.51: Goal for Black
+2016.11.16-15.06.51: Ready
+2016.11.16-15.06.55: Unpenalised Black 1
+2016.11.16-15.06.57: Unpenalised Black 3
+2016.11.16-15.07.05: Leaving Player Black 3
+2016.11.16-15.07.15: Timeout Black
+2016.11.16-15.07.15: Initial
+2016.11.16-15.07.52: Shutdown GameController
